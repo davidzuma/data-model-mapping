@@ -1,0 +1,29 @@
+{
+  "columns": [
+    {
+      "name": "Electric Potential",
+      "description": "Electric Potential represents the difference in electric potential energy per unit charge between two points in an electrical circuit, measured in volts (V). It is a fundamental parameter in power grid systems."
+    },
+    {
+      "name": "Electric Flow",
+      "description": "Electric Flow is the movement of electric charge per unit time, measured in amperes (A). It indicates the rate at which electric charge flows through a conductor."
+    },
+    {
+      "name": "Energy Transfer Rate",
+      "description": "Energy Transfer Rate is the rate at which work is done or energy is transferred, measured in watts (W). In the context of power grids, it indicates the amount of energy transferred per unit time."
+    },
+    {
+      "name": "Electrical Impedance",
+      "description": "Electrical Impedance is the opposition to the flow of electric current, measured in ohms (Ω). It represents how much a material or component impedes the flow of electricity."
+    },
+    {
+      "name": "Waveform Frequency",
+      "description": "Waveform Frequency is the number of cycles per unit time of a periodic waveform, measured in hertz (Hz). In power grids, frequency stability is crucial for maintaining synchronization."
+    },
+    {
+      "name": "Phase Shift",
+      "description": "Phase Shift is the relative shift between two waveforms with the same frequency, measured in degrees or radians. It is important in power systems for analyzing the relationship between voltage and current."
+    }
+  ]
+}
+
